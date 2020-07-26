@@ -4,7 +4,7 @@ We want to show you in practice how to take your first steps with machine learni
 
 We will not explain how the algorithm works. We will not show how to choose the right algorithm for your problem. Nor will we present how to optimize the parameters of the algorithm.
 
-[1. Familiarize with notebooks](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)
+[1. Familiarize with notebooks](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)<br>
 [2. Data analysis](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)
 [3. Regression models](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)
 [4. Classification models](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)
