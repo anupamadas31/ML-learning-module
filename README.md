@@ -1,4 +1,4 @@
-# getting-started-with-ML
+# Quick-start-to-ML
 
 We want to show you in practice how to take your first steps with machine learning without getting drowned in theory. So we will only give you the ‘need-to-know’ of what machine learning is.
 
