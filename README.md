@@ -6,7 +6,7 @@ Here is a great introduction which just takes 5 minutes to [read](https://toward
 Now that you know what you are getting into, let's begin by diving into data problems and solving them. The typical approach to solve a problem is shown in the following image.
 ![image](Machine-Learning-and-Project-Management-Life-Cycle-1.png)<br>
 
-Here, we will be focussing on stages 3,4,5 and 6 as we want you to get hands-on with modelling. Here are some examples you can try out in your coding environment by running them and understanding the commonly performend tasks in each example. Once you are through it, test your skills by solving the problem in the final example.
+Here, we will be focussing on stages 3,4,5 and 6 as we want you to get hands-on with modelling. Here are some examples you can try out in your jupyter notebooks by running them and understanding the commonly performend tasks in each example. You can first look at how notebooks work if you haven't used it before. You can then start by preparing the dataset and then building your predictive models. Once you are through it, test your skills by solving the problem in the final example.
 
 [Familiarize with notebooks](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Running%20Code.ipynb)<br>
 [1. Warm up!](https://github.com/anupamadas31/getting-started-with-ML/blob/master/exploratory%20data%20analysis.ipynb)<br>
