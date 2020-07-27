@@ -18,6 +18,6 @@ Here, we will be focussing on stages 3,4,5 and 6 as we want you to get hands-on 
 Want to learn more? Jump to:
 [Kaggle] to find more datasets, problems and solve them
 
-**Stay tuned for more updates on how to deploy models and to get hands on with ML Ops!
+**Stay tuned for more updates on how to deploy models and to get hands on with ML Ops!**
 
 
