@@ -16,7 +16,7 @@ Here, we will be focussing on stages 3,4,5 and 6 as we want you to get hands-on 
 [5. Take a test](https://github.com/anupamadas31/getting-started-with-ML/blob/master/Sales%20Prediction_%20test.ipynb)<br>
 
 Want to learn more? Jump to:
-[Kaggle] to find more datasets, problems and solve them
+[Kaggle](https://www.kaggle.com/datasets?fileType=csv) to find more datasets, problems and solve them
 
 **Stay tuned for more updates on how to deploy models and to get hands on with ML Ops!**
 
