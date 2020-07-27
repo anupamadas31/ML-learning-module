@@ -4,6 +4,7 @@ We want to show you in practice how to take your first steps with machine learni
 
 Here is a great introduction which just takes 5 minutes to [read](https://towardsdatascience.com/introduction-to-machine-learning-for-beginners-eed6024fdb08)<br>
 Now that you know what you are getting into, let's begin by diving into data problems and solving them. The typical approach to solve a problem is shown in the following image.
+![image](Machine-Learning-and-Project-Management-Life-Cycle-1.png)<br>
 
 Here, we will be focussing on stages 3,4,5 and 6 as we want you to get hands-on with modelling. Here are some examples you can try out in your coding environment by running them and understanding the commonly performend tasks in each example. Once you are through it, test your skills by solving the problem in the final example.
 
